@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name binki-bigtime-logout-detect
-// @version  1.0.0
+// @version  1.0.1
 // @homepageURL https://github.com/binki/binki-bigtime-logout-detect
 // @match https://*.bigtime.net/bigtime
 // @match https://*.bigtime.net/bigtime/*
